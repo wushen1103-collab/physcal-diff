@@ -1,0 +1,10 @@
+experiment,dataset,policy,budget,seeds,primary_metric,mean,std,pass_rate_mean,pass_rate_std
+portfolio_candidate_seed_stability,bindingmoad,portfolio_eps_scalar_balanced,8,64,mean_composite_delta_score,3.62219406569457,0.2229238346148669,1.0,0.0
+portfolio_candidate_seed_stability,prospective,portfolio_eps_scalar_balanced,8,64,mean_composite_delta_score,5.354145997425418,0.4773878364183541,1.0,0.0
+portfolio_candidate_seed_stability,bindingmoad,portfolio_eps_scalar_balanced,12,64,mean_composite_delta_score,3.8777079448682814,0.157252208528667,1.0,0.0
+portfolio_candidate_seed_stability,prospective,portfolio_eps_scalar_balanced,12,64,mean_composite_delta_score,5.679794984814199,0.285915503294462,1.0,0.0
+portfolio_candidate_seed_stability,bindingmoad,portfolio_eps_scalar_balanced,24,64,mean_composite_delta_score,4.0117442847799625,0.0816641258488732,1.0,0.0
+portfolio_candidate_seed_stability,prospective,portfolio_eps_scalar_balanced,24,64,mean_composite_delta_score,5.928457745861337,0.1432356474683772,1.0,0.0
+portfolio_candidate_seed_stability,bindingmoad,portfolio_eps_scalar_balanced,32,64,mean_composite_delta_score,4.038945975346993,0.0,1.0,0.0
+portfolio_candidate_seed_stability,prospective,portfolio_eps_scalar_balanced,32,64,mean_composite_delta_score,5.901177781586076,8.951997022403363e-16,1.0,0.0
+vina_seed_exhaustiveness_stability,prospective,portfolio_contact_hard_local_rescue_v0,6,102,vina_delta_profile_minus_raw,-2.799480392156863,,1.0,

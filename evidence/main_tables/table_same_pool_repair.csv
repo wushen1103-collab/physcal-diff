@@ -1,0 +1,16 @@
+dataset,generator,policy,targets,accepted,target_success_at_k,yield_per_budget_mean,bad_per_budget_mean,contact_residue_count_4a_mean,close_atom_pairs_2a_mean,contact_jaccard_mean,eval_qed_mean,eval_sa_score_mean
+matched50,guide,raw_topk,50,200,1.0,1.0,0.305,13.61,0.02,1.0,0.4626233037,4.8742073670
+matched50,guide,rf_ligand_repair_order,50,200,1.0,1.0,0.11,11.95,1.785,0.8192931035,0.4941575827,4.7715597705
+matched50,guide,pl_pose_clash_rankfusion_w100_plsafe,50,200,1.0,1.0,0.0,12.78,0.02,0.9210494415,0.5158021273,4.5246891046
+matched50,origin,raw_topk,50,200,1.0,1.0,0.2,13.67,0.065,1.0,0.4897174900,4.8090226291
+matched50,origin,rf_ligand_repair_order,50,200,1.0,1.0,0.105,12.345,1.575,0.8252446285,0.5085303323,4.7979337869
+matched50,origin,pl_pose_clash_rankfusion_w100_plsafe,50,200,1.0,1.0,0.0,12.555,0.03,0.9258958396,0.5519204627,4.2351917869
+sampling,syncguide,raw_topk,50,200,1.0,1.0,0.165,13.61,0.02,1.0,0.4626233037,4.8742073670
+sampling,syncguide,rf_ligand_repair_order,50,200,1.0,1.0,0.05,11.95,1.785,0.8192931035,0.4941575827,4.7715597705
+sampling,syncguide,pl_pose_clash_rankfusion_w100_plsafe,50,200,1.0,1.0,0.0,12.73,0.02,0.9213831593,0.5169999228,4.5272481820
+sampling,pocket2mol,raw_topk,22,88,1.0,1.0,0.2840909091,5.9431818182,0.0454545455,1.0,0.4839409203,3.3693520485
+sampling,pocket2mol,rf_ligand_repair_order,22,88,1.0,1.0,0.2840909091,5.8068181818,0.1136363636,0.8799812246,0.4839409203,3.3693520485
+sampling,pocket2mol,pl_pose_clash_rankfusion_w100_plsafe,22,88,1.0,1.0,0.0,7.0113636364,0.0113636364,0.9399834383,0.5119607983,3.0949889539
+sampling,targetdiff,raw_topk,50,140,0.52,0.7,0.7,8.1223404255,2.2943262411,1.0,0.2026293460,6.8330037083
+sampling,targetdiff,rf_ligand_repair_order,50,1,0.0,0.005,0.0,8.0,4.0,0.625,0.4968840474,6.1679962322
+sampling,targetdiff,pl_pose_clash_rankfusion_w100_plsafe,50,1,0.0,0.005,0.0,7.0,4.0,0.5714285714,0.4968840474,6.1679962322

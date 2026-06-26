@@ -1,0 +1,16 @@
+# Example local paths for reproducing the analysis.
+# Edit these paths for your machine; scripts also accept command-line overrides.
+
+generated_sdf_root: external/generated_sdf
+generator_results_root: external/generator_results
+reference_baselines_root: external/reference_baselines
+output_root: outputs
+
+selection:
+  alpha: 0.05
+  risk_bound: wilson95
+  top_k: 4
+
+repair:
+  rmsd_max: 1.5
+  force_field: MMFF94
