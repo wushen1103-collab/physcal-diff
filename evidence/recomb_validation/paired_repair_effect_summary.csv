@@ -1,0 +1,3 @@
+dataset,pairs,source_candidates,targets,raw_mol_pass,repair_mol_pass,raw_protein_pass,repair_protein_pass,raw_combined_pass,repair_combined_pass,combined_gains,combined_losses,paired_target_mean_difference,target_bootstrap_ci_low,target_bootstrap_ci_high
+bindingmoad,318,137,86,0.8301886792452831,0.9622641509433962,0.33962264150943394,0.2893081761006289,0.2610062893081761,0.27672955974842767,17,12,0.013510520487264675,-0.04089147286821705,0.06616832779623477
+prospective,30,14,8,1.0,1.0,1.0,0.9666666666666667,1.0,0.9666666666666667,0,1,-0.04166666666666667,-0.125,0.0

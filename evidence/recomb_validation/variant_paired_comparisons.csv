@@ -1,0 +1,5 @@
+comparator,paired_targets,balanced_pass,comparator_pass,balanced_only,comparator_only,paired_difference,exact_two_sided_p
+portfolio_affinity_guarded,100,34,41,3,10,-0.06999999999999995,0.09228515625
+portfolio_cnn_qed_guarded,100,34,37,7,10,-0.02999999999999997,0.629058837890625
+portfolio_dominance_scalar,100,34,40,8,14,-0.06,0.28627872467041016
+portfolio_eps_scalar_strict_rmsd,100,34,34,1,1,0.0,1.0

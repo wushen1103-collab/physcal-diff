@@ -1,0 +1,3 @@
+dataset,n,export_available,redock_available,same_stereochemical_smiles,same_connectivity,reported_sa_mismatch,sa_changed_after_redock,reported_qed_mismatch
+bindingmoad,100,100,100,89,100,0,0,0
+prospective,18,18,18,17,18,4,1,0

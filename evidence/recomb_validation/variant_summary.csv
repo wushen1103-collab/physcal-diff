@@ -1,0 +1,6 @@
+arm,n,mol_pass,protein_pass,combined_pass
+portfolio_affinity_guarded,100,0.99,0.41,0.41
+portfolio_cnn_qed_guarded,100,0.98,0.37,0.37
+portfolio_dominance_scalar,100,0.98,0.41,0.4
+portfolio_eps_scalar_balanced,100,0.96,0.35,0.34
+portfolio_eps_scalar_strict_rmsd,100,0.96,0.35,0.34

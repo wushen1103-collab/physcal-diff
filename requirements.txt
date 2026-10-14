@@ -3,3 +3,6 @@ pandas>=2.0
 scikit-learn>=1.3
 scipy>=1.10
 rdkit>=2023.9
+biopython>=1.83
+posebusters==0.2.2
+matplotlib>=3.7

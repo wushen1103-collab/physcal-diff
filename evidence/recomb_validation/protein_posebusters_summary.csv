@@ -1,0 +1,4 @@
+dataset,arm,n,protein_pass,distance_pass,volume_pass
+bindingmoad,ligand_only_mmff_uff,100,0.28,0.29,0.39
+bindingmoad,physcal_balanced,100,0.35,0.35,0.55
+bindingmoad,raw_topk,100,0.3,0.3,0.41
